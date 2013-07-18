@@ -1,0 +1,81 @@
+<questions>
+    <question>
+        <statement>What is the next number in the sequence: 1 1 2 3 5 8 ?</statement>
+        <answer>13</answer>
+        <answer>11</answer>
+        <answer>20</answer>
+        <correctanswer>13</correctanswer>
+    </question>
+    <question>
+        <statement>What famous document begins: "When in the course of human events..."?</statement>
+        <answer>The Declaration of Independence</answer>
+        <answer>The Second Amendment</answer>
+        <correctanswer>The Declaration of Independence</correctanswer>
+    </question>
+    <question>
+        <statement>What so-called "war" spawned the dueling slogans "Better Dead Than RED" and "Better Red Than Dead" in the 1950's?</statement>
+        <answer>WW2</answer>
+        <answer>Vietnam War</answer>
+        <answer>Cold War</answer>
+        <correctanswer>Cold War</correctanswer>
+    </question>
+    <question>
+        <statement>Who was the last president of the Soviet Union?</statement>
+        <answer>Mikail Gorbachev</answer>
+        <answer>Joseph Stalin</answer>
+        <correctanswer>Mikail Gorbachev</correctanswer>
+    </question>
+    <question>
+        <statement>What modern vehicle was invented to circumvent trench warfare?</statement>
+        <answer>The Tank</answer>
+        <answer>The Pony</answer>
+        <answer>The UberKriegmobil 3000</answer>
+        <correctanswer>The Tank</correctanswer>
+    </question>
+    <question>
+        <statement>What was 11th-century Spanish military leader Rodrigo Diaz de Vivar better know as?</statement>
+        <answer>El Cid</answer>
+        <answer>Mucha Lucha</answer>
+        <correctanswer>El Cid</correctanswer>
+    </question>
+    <question>
+        <statement>Who is the president of the United States of America?</statement>
+        <answer>George Bush</answer>
+        <answer>Barack Obama</answer>
+        <answer>Bill Clinton</answer>
+        <correctanswer>Barack Obama</correctanswer>
+    </question>
+    <question>
+        <statement>What is the airspeed velocity of an unladen swallow?</statement>
+        <answer>24 miles / hour</answer>
+        <answer>30 miles / hour</answer>
+        <answer>Monty Python much?</answer>
+        <correctanswer>24 miles / hour</correctanswer>
+    </question>
+    <question>
+        <statement>Who lived at 221B, Baker Street, London?</statement>
+        <answer>Sherlock Holmes</answer>
+        <answer>Wait... I live there!</answer>
+        <correctanswer>Sherlock Holmes</correctanswer>
+    </question>
+    <question>
+        <statement>How many wives did Henry the Eighth have?</statement>
+        <answer>5</answer>
+        <answer>6</answer>
+        <correctanswer>6</correctanswer>
+    </question>
+    <question>
+        <statement>How many squares are there on a chess board?</statement>
+        <answer>70</answer>
+        <answer>64</answer>
+        <answer>59</answer>
+        <correctanswer>64</correctanswer>
+    </question>
+    <question>
+        <statement>What is the truth value of the following sentence: "This sentence is false."?</statement>
+        <answer>True</answer>
+        <answer>False</answer>
+        <answer>???</answer>
+        <correctanswer>???</correctanswer>
+    </question>
+</questions>

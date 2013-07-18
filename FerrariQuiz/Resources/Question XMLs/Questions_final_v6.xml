@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+    
+    
+    
+    <question>
+        
+        <statement><![CDATA[Les malformations cardiaques congénitales représentent la cause la plus fréquente de malformations à la naissance:]]></statement>
+        
+        <answer><![CDATA[Oui]]></answer>
+        <answer><![CDATA[Non]]></answer>
+        
+        <correctanswer><![CDATA[Oui]]></correctanswer>
+        
+        <explanation><![CDATA[Les malformations cardiaques congénitales ont longtemps été l'une des principales causes de décès au cours de la 1ère année de vie.]]></explanation>
+        
+        <reference><![CDATA[1) Bernier PL et al. The challenge of congenital heart disease worldwide: epidemiologic and demographic facts.
+Semin Thorac Cardiovasc Surg Pediatr Card Surg Annu 2010;13:26-34.]]></reference>
+        
+        
+    </question>
+    
+    
+    
+    <question>
+        
+        <statement><![CDATA[Les malformations cardiaques congénitales représentent un pourcentage de malformations à la naissance de l’ordre de:]]></statement>
+        
+        <answer><![CDATA[0,1 %]]></answer>
+        <answer><![CDATA[0,8 %]]></answer>
+	    <answer><![CDATA[2 %]]></answer>
+        
+        <correctanswer><![CDATA[0,8 %]]></correctanswer>
+        
+        <explanation><![CDATA[Cette incidence d'environ 8 pour 1000 naissances représente 6 624 nouveau-nés en France en 2010 (2) et plus d'un million dans le monde chaque année (1).]]></explanation>
+        
+        <reference><![CDATA[1) Bernier PL et al. The challenge of congenital heart disease worldwide: epidemiologic and demographic facts. 
+Pediatr Card Surg Annu 2010;13:26-34.
+2) Sur un nombre de naissances vivantes en France estimées à 828 000 en 2010. D’après les données de l'INSEE. 
+http://www.insee.fr/fr/themes/document.asp?ref_id=ip1332]]></reference>
+        
+        
+    </question>
+    
+    
+    
+    <question>
+        
+        <statement><![CDATA[Actuellement en France, la cohorte de jeunes adultes atteints de malformation cardiaque congénitale va croissant et atteint:]]></statement>
+        
+        <answer><![CDATA[80 000 à 100 000 patients]]></answer>
+        <answer><![CDATA[100 000 à 150 000 patients]]></answer>
+        <answer><![CDATA[180 000 à 200 000 patients]]></answer>
+        
+        <correctanswer><![CDATA[100 000 à 150 000 patients]]></correctanswer>
+        
+        <explanation><![CDATA[Et 50 000 à 75 000 doivent être pris en charge au long cours.]]></explanation>
+        
+        <reference><![CDATA[3) Vouhé P. Recommandations de la Société Européenne de Cardiologie. Prise en charge des congénitaux adultes. 
+AMC pratique 2011;195:32-3.]]></reference>
+        
+    </question>
+    
+    
+    
+    <question>
+        
+        <statement><![CDATA[En 2011, le pourcentage de la population pédiatrique avec une malformation cardiaque congénitale susceptible d’atteindre l’âge adulte est de:]]></statement>
+        
+        <answer><![CDATA[50 %]]></answer>
+        <answer><![CDATA[70 %]]></answer>
+        <answer><![CDATA[90 %]]></answer>
+        
+        <correctanswer><![CDATA[90 %]]></correctanswer>
+        
+        <explanation><![CDATA[Le taux de survie des patients nés entre 1990 et 1992 est significativement plus élevé comparé à celui des patients nés lors des décennies précédentes (81,0% à 86,6%).]]></explanation>
+        
+        <reference><![CDATA[4) Moons P et al. Temporal trends in survival to adulthood among patients born with congenital heart disease from 1970 to 1992 in Belgium. 
+Circulation 2010;122:2265-72.]]></reference>
+        
+    </question> 
+    
+    
+    <question>
+        
+        <statement><![CDATA[Les cardiopathies congénitales avec shunt sont dites de petite dimension si: 
+(CIA: Communication InterAuriculaire ; CIV: Communication InterVentriculaire)]]></statement>
+        
+        <answer><![CDATA[CIA < 1,0 cm et CIV ≤ 0,5 cm]]></answer>
+            <answer><![CDATA[CIA < 2,0 cm et CIV < 1,0 cm]]></answer>
+                <answer><![CDATA[CIA ≤ 4,0 cm et CIV < 2,0 cm]]></answer>
+                    
+                    <correctanswer><![CDATA[CIA < 2,0 cm et CIV < 1,0 cm]]></correctanswer>
+                        
+                        <explanation><![CDATA[Les cardiopathies congénitales avec shunt sont dites larges si: CIA > 2,0 cm et CIV > 1 cm.]]></explanation>
+                        
+                        <reference><![CDATA[5) Galiè N et al. Guidelines for the diagnosis and treatment of pulmonary hypertension: The Task Force for the Diagnosis and Treatment of Pulmonary Hypertension of the European Society of Cardiology (ESC) and the European Respiratory Society (ERS), endorsed by the International Society of Heart and Lung Transplantation (ISHLT).
+Eur Heart J 2009;30:2493-537.]]></reference>
+                        
+                    </question> 
+                        
+                        <question>
+                            
+                            <statement><![CDATA[La survie des patients adultes ayant une malformation cardiaque congénitale est réduite par rapport à une population sans malformation cardiaque congénitale. Dans les données du registre CONCOR aux Pays-Bas, l’âge médian de survenue du décès dans la population d'adultes ayant une cardiopathie congénitale était de:]]></statement>
+                            
+                            <answer><![CDATA[41,7 ans]]></answer>
+                            <answer><![CDATA[48,8 ans]]></answer>
+                            <answer><![CDATA[54,2 ans]]></answer>
+                            
+                            <correctanswer><![CDATA[48,8 ans]]></correctanswer>
+                            
+                            <explanation><![CDATA[48,8 ans (20,3 - 91,2 ans). On constate une surmortalité de la population ayant une malformation cardiaque congénitale par rapport à la population générale quelque soit l'âge.]]></explanation>
+                            
+                            <reference><![CDATA[6) Verheugt CL et al. Mortality in adult congenital heart disease.
+Eur Heart J 2010;31:1220-9.]]></reference>
+                            
+                        </question>
+                        
+                        <question>
+                            
+                            <statement><![CDATA[La cause du décès des patients adultes ayant une malformation cardiaque congénitale est d’origine cardiologique dans:]]></statement>
+                            
+                            <answer><![CDATA[48 % des cas]]></answer>
+                            <answer><![CDATA[62 % des cas]]></answer>
+                            <answer><![CDATA[77 % des cas]]></answer>
+                            
+                            <correctanswer><![CDATA[77 % des cas]]></correctanswer>
+                            
+                            <explanation><![CDATA[45% des décès d’origine cardiovasculaire sont liés à une insuffisance cardiaque chronique (26%, âge médian de décès: 51 ans ) ou à une mort subite (19%, âge moyen de décès: 39 ans).]]></explanation>
+                            
+                            <reference><![CDATA[6) Verheugt CL et al. Mortality in adult congenital heart disease.
+Eur Heart J 2010;31:1220-9.]]></reference>
+                            
+                        </question>
+                        
+                        <question>
+                            
+                            <statement><![CDATA[Les troubles du rythme sont la première cause d’hospitalisation des patients ayant une malformation cardiaque congénitale.]]></statement>
+                           
+                            
+                            <answer><![CDATA[Vrai]]></answer>
+                            <answer><![CDATA[Faux]]></answer>
+                            
+                            <correctanswer><![CDATA[Vrai]]></correctanswer>
+                            
+                            <explanation><![CDATA[31% des hospitalisations sont dues à un trouble du rythme.]]></explanation>
+                            
+                            <reference><![CDATA[6) Verheugt CL et al. Mortality in adult congenital heart disease.
+Eur Heart J 2010;31:1220-9.
+7) Baumgartner H et al. ESC Guidelines for the management of grown-up congenital heart disease (new version 2010): The Task Force on the Management of Grown-up Congenital Heart Disease of the European Society of Cardiology (ESC).
+Eur Heart J 2010;31:2915-57.]]></reference>
+                            
+                        </question>
+                        
+                        <question>
+                            
+                            <statement><![CDATA[Chez un patient ayant une malformation cardiaque congénitale, la syncope peut constituer un signe d’alerte de gravité annonciateur de mort subite.]]></statement>
+                            
+                            
+                            <answer><![CDATA[Vrai]]></answer>
+                            <answer><![CDATA[Faux]]></answer>
+                            
+                            <correctanswer><![CDATA[Vrai]]></correctanswer>
+                            
+                            <explanation><![CDATA[Les 5 cardiopathies congénitales  associées à un risque plus élevé de survenue de mort subite sont: 
+- la tétralogie de Fallot,
+- la transposition des gros vaisseaux,
+- la transposition corrigée des gros vaisseaux,
+- la sténose aortique,
+- le cœur univentriculaire.]]></explanation>
+                            
+                            
+                            <reference><![CDATA[7) Baumgartner H et al. ESC Guidelines for the management of grown-up congenital heart disease (new version 2010): The Task Force on the Management of Grown-up Congenital Heart Disease of the European Society of Cardiology (ESC).
+Eur Heart J 2010;31:2915-57.]]></reference>
+                            
+                        </question>
+                        
+                        <question>
+                            
+                            <statement><![CDATA[Le risque d’endocardite infectieuse dans la population des adultes ayant une cardiopathie congénitale est plus élevé que dans la population générale.]]></statement>
+                            
+                            
+                            <answer><![CDATA[Vrai]]></answer>
+                            <answer><![CDATA[Faux]]></answer>
+                            
+                            <correctanswer><![CDATA[Vrai]]></correctanswer>
+                            
+                            <explanation><![CDATA[La prévention est essentielle: hygiène dentaire, mesures d’asepsie lors de la manipulation de cathéters, piercings et tatouages non recommandés.]]></explanation>
+                            
+                            
+                            <reference><![CDATA[7) Baumgartner H et al. ESC Guidelines for the management of grown-up congenital heart disease (new version 2010): The Task Force on the Management of Grown-up Congenital Heart Disease of the European Society of Cardiology (ESC).
+Eur Heart J 2010;31:2915-57.]]></reference>
+                            
+                        </question>
+                        
+                        <question>
+                            
+                            <statement><![CDATA[La grossesse est contre-indiquée chez les patientes ayant une malformation cardiaque congénitale.]]></statement>
+                            
+                            
+                            <answer><![CDATA[Vrai]]></answer>
+                            <answer><![CDATA[Faux]]></answer>
+                            
+                            <correctanswer><![CDATA[Faux]]></correctanswer>
+                            
+                            <explanation><![CDATA[Si la patiente ne présente pas d'hypertension artérielle pulmonaire ou de syndrome d’Eisenmenger, la grossesse est envisageable sous certaines conditions: une prise en charge précoce et un suivi pluri-disciplinaire (cardiologue, obstétricien, anesthésiste, hématologue, néonatalogiste, généticien).]]></explanation>
+                            
+                            
+                            <reference><![CDATA[7) Baumgartner H et al. ESC Guidelines for the management of grown-up congenital heart disease (new version 2010): The Task Force on the Management of Grown-up Congenital Heart Disease of the European Society of Cardiology (ESC).
+Eur Heart J 2010;31:2915-57.]]></reference>
+                            
+                        </question>
+                        
+                        <question>
+                            
+                            <statement><![CDATA[Un exercice régulier, adapté aux capacités du patient et au type de malformation cardiaque congénitale, est considéré comme bénéfique.]]></statement>
+                            
+                            
+                            <answer><![CDATA[Vrai]]></answer>
+                            <answer><![CDATA[Faux]]></answer>
+                            
+                            <correctanswer><![CDATA[Vrai]]></correctanswer>
+                            
+                            <explanation><![CDATA[Chez ces patients, les effets bénéfiques de la pratique d’un exercice régulier sont démontrés: amélioration de la santé physique, mentale, enrichissement de la vie relationnelle et contrôle des facteurs de risque cardiovasculaire.]]></explanation>
+                            
+                            
+                            <reference><![CDATA[7) Baumgartner H et al. ESC Guidelines for the management of grown-up congenital heart disease (new version 2010): The Task Force on the Management of Grown-up Congenital Heart Disease of the European Society of Cardiology (ESC).
+Eur Heart J 2010;31:2915-57.]]></reference>
+                            
+                        </question>
+                        
+                        <question>
+                            
+                            <statement><![CDATA[Un exercice régulier, adapté aux capacités du patient et au type de malformation cardiaque congénitale, est considéré comme bénéfique.]]></statement>
+                            
+                            
+                            <answer><![CDATA[Vrai]]></answer>
+                            <answer><![CDATA[Faux]]></answer>
+                            
+                            <correctanswer><![CDATA[Vrai]]></correctanswer>
+                            
+                            <explanation><![CDATA[Chez ces patients, les effets bénéfiques de la pratique d’un exercice régulier sont démontrés: amélioration de la santé physique, mentale, enrichissement de la vie relationnelle et contrôle des facteurs de risque cardiovasculaire.]]></explanation>
+                            
+                            
+                            <reference><![CDATA[7) Baumgartner H et al. ESC Guidelines for the management of grown-up congenital heart disease (new version 2010): The Task Force on the Management of Grown-up Congenital Heart Disease of the European Society of Cardiology (ESC).Eur Heart J 2010;31:2915-57.]]></reference>
+                                
+                            
+                        </question>
+                        
+                        <question>
+                            
+                            <statement><![CDATA[La première cause d’hospitalisation non cardiovasculaire des adultes ayant une cardiopathie congénitale est:]]></statement>
+                            
+                            
+                            <answer><![CDATA[Un problème lié au système respiratoire]]></answer>
+                            <answer><![CDATA[Un problème lié au système nerveux]]></answer>
+                            <answer><![CDATA[La grossesse]]></answer>
+                            
+                            
+                            <correctanswer><![CDATA[La grossesse]]></correctanswer>
+                            
+                            <explanation><![CDATA[La majorité des patientes ayant une malformation cardiaque congénitale tolère bien leur grossesse.
+En revanche, elle est contre-indiquée en cas d'hypertension artérielle pulmonaire ou de syndrome d’Eisenmenger au cours desquels la mortalité maternelle demeure très élevée (de l’ordre de 30 à 50 %).]]></explanation>
+                            
+                            
+                            <reference><![CDATA[7) Baumgartner H et al. ESC Guidelines for the management of grown-up congenital heart disease (new version 2010): The Task Force on the Management of Grown-up Congenital Heart Disease of the European Society of Cardiology (ESC).
+Eur Heart J 2010;31:2915-57.
+8) Verheugt CL et al. The emerging burden of hospital admissions of adults with congenital heart disease.
+Heart 2010;96:872-8.]]></reference>
+                            
+                            
+                        </question>
+                        
+                        <question>
+                            
+                            <statement><![CDATA[La fréquence de la dépression / de l’anxiété dans cette population est de:]]></statement>
+                            
+                            
+                            <answer><![CDATA[Environ 17 % d’entre eux]]></answer>
+                            <answer><![CDATA[Environ 30 % d’entre eux]]></answer>
+                            <answer><![CDATA[Environ 45 % d’entre eux]]></answer>
+                            
+                            
+                            <correctanswer><![CDATA[Environ 30 % d’entre eux]]></correctanswer>
+                            
+                            <explanation><![CDATA[La fréquence de la dépression / de l’anxiété dans cette population est deux fois plus fréquente que dans la population normale (respectivement 15,5% et 29,8%).]]></explanation>
+                            
+                            
+                            <reference><![CDATA[8) Berghammer M et al. Self-reported health status (EQ-5D) in adults with congenital heart disease.
+Int J Cardiol 2011.]]></reference>
+                            
+                            
+                            
+                        </question>
+                        
+                        <question>
+                            
+                            <statement><![CDATA[Chez les patients ayant une malformation cardiaque congénitale combien risquent de développer une hypertension artérielle pulmonaire:]]></statement>
+                            
+                            
+                            <answer><![CDATA[1 %]]></answer>
+                            <answer><![CDATA[5 à 10 %]]></answer>
+                            <answer><![CDATA[35 %]]></answer>
+                            
+                            
+                            <correctanswer><![CDATA[5 à 10 %]]></correctanswer>
+                            
+                            <explanation><![CDATA[Ce pourcentage dépend du type de cardiopathie congénitale sous-jacente: la communication interventriculaire est le diagnostic le plus fréquemment retrouvé en cas d'hypertension artérielle pulmonaire.
+Rappel de la définition hémodynamique de l’hypertension artérielle pulmonaire:
+- Pression artérielle pulmonaire moyenne ≥ 25 mmHg 
+- Pression artérielle pulmonaire d'occlusion ≤ 15 mmHg
+- Débit cardiaque normal ou diminué [un débit cardiaque élevé peut être présent dans certaines conditions hyperkinétiques comme les shunts gauche-droite (seulement dans la circulation pulmonaire), l’anémie, l’hyperthyroïdie, etc…]]]></explanation>
+                                
+                            
+                            
+                            <reference><![CDATA[5) Galiè N et al. Guidelines for the diagnosis and treatment of pulmonary hypertension : The Task Force for the Diagnosis and Treatment of Pulmonary Hypertension of the European Society of Cardiology (ESC) and the European Respiratory Society (ERS), endorsed by the International Society of Heart and Lung Transplantation (ISHLT). 
+Eur Heart J 2009;30:2493-537.
+9) Duffels MG et al. Pulmonary arterial hypertension in congenital heart disease: an epidemiologic perspective from a Dutch registry. 
+Int J Cardiol 2007;120:198‐204.]]></reference>
+                            
+                            
+                            
+                        </question>
+                        
+                        
+                        <question>
+                            
+                            <statement><![CDATA[L’hypertension artérielle pulmonaire est définie par:
+(PAPm = Pression Artérielle Pulmonaire moyenne ; PAPO = Pression Artérielle Pulmonaire d’Occlusion)]]></statement>
+                            
+                            
+                            <answer><![CDATA[PAPm > 50 mmHg et PAPO < 15 mmHg]]></answer>
+                                <answer><![CDATA[PAPm ≥ 25 mmHg et PAPO ≤ 15 mmHg avec un débit cardiaque normal ou réduit]]></answer>
+                                <answer><![CDATA[PAPm > 25 mmHg et PAPO ≤ 15 mmHg]]></answer>
+                                
+                                
+                                <correctanswer><![CDATA[PAPm ≥ 25 mmHg et PAPO ≤ 15 mmHg avec un débit cardiaque normal ou réduit]]></correctanswer>
+                                
+                                <explanation><![CDATA[Un débit cardiaque élevé peut être présent dans certaines conditions hyperkinétiques comme les shunts gauche-droite (seulement dans la circulation pulmonaire), l’anémie, l’hyperthyroïdie, etc…]]></explanation>
+                                
+                                <reference><![CDATA[5) Galiè N et al. Guidelines for the diagnosis and treatment of pulmonary hypertension: The Task Force for the Diagnosis and Treatment of Pulmonary Hypertension of the European Society of Cardiology (ESC) and the European Respiratory Society (ERS), endorsed by the International Society of Heart and Lung Transplantation (ISHLT).
+Eur Heart J 2009;30:2493-537.]]></reference>
+                                
+                                
+                            </question>
+                                
+                                <question>
+                                    
+                                    <statement><![CDATA[La dysfonction endothéliale à laquelle s’associent des anomalies musculaires lisses vasculaires pulmonaires constitue un élément central dans l’apparition de l’hypertension artérielle pulmonaire. Cette dysfonction se caractérise par:]]></statement>
+                                    
+                                    
+                                    <answer><![CDATA[la diminution de production de médiateurs vasodilatateurs  associée à une surproduction de vasoconstricteurs endothéliaux]]></answer>
+                                    <answer><![CDATA[la surproduction de médiateurs vasodilatateurs et  de vasoconstricteurs endothéliaux]]></answer>
+                                    <answer><![CDATA[la diminution de production de médiateurs vasodilatateurs et de vasoconstricteurs endothéliaux]]></answer>
+                                    
+                                    
+                                    <correctanswer><![CDATA[la diminution de production de médiateurs vasodilatateurs  associée à une surproduction de vasoconstricteurs endothéliaux]]></correctanswer>
+                                    
+                                    <explanation><![CDATA[La diminution de production de médiateurs vasodilatateurs d’origine endothéliale, associée à une surproduction de vasoconstricteurs endothéliaux affecte non seulement le tonus vasculaire, mais entraîne aussi un intense remodelage vasculaire pulmonaire.]]></explanation>
+                                    
+                                    <reference><![CDATA[10) Sztrymf B et al. Prise en charge diagnostique et thérapeutique de l'hypertension artérielle pulmonaire.
+Réanimation 2007;16:294-301.]]></reference>
+                                    
+                                    
+                                </question>
+                                
+                                
+                                <question>
+                                    
+                                    <statement><![CDATA[L’artériopathie plexiforme est une lésion caractéristique de l’hypertension artérielle pulmonaire.]]></statement>
+                                    
+                                    <answer><![CDATA[Vrai]]></answer>
+                                    <answer><![CDATA[Faux]]></answer>
+                                    
+                                    <correctanswer><![CDATA[Vrai]]></correctanswer>
+                                    
+                                    <explanation><![CDATA[L’artériopathie plexiforme associe une hypertrophie de la média, une fibrose de l’intima, des lésions plexiformes et des thromboses organisées et recanalisées.]]></explanation>
+                                    
+                                    <reference><![CDATA[10) Sztrymf B et al. Prise en charge diagnostique et thérapeutique de l'hypertension artérielle pulmonaire.
+Réanimation 2007;16:294-301.]]></reference>
+                                    
+                                    
+                                </question>
+    
+                                <question>
+                                    
+                                    <statement><![CDATA[Il n’existe pas de signes cliniques spécifiques de l’hypertension artérielle pulmonaire. La dyspnée d’effort est le signe le plus fréquemment retrouvé chez:]]></statement>
+                                    
+                                    <answer><![CDATA[70 % des patients]]></answer>
+                                    <answer><![CDATA[80 % des patients]]></answer>
+                                    <answer><![CDATA[95 % des patients]]></answer>
+                                    
+                                    <correctanswer><![CDATA[95 % des patients]]></correctanswer>
+                                    
+                                    <explanation><![CDATA[Cette dyspnée d'effort d’apparition progressive est parfois initialement négligée ; ceci explique le retard à la prise en charge d’environ deux ans entre le début des symptômes et le diagnostic.]]></explanation>
+                                    
+                                    <reference><![CDATA[10) Sztrymf B et al. Prise en charge diagnostique et thérapeutique de l'hypertension artérielle pulmonaire.
+Réanimation 2007;16:294-301.]]></reference>
+                                    
+                                    
+                                </question>
+                                
+                                <question>
+                                    
+                                    <statement><![CDATA[Lors du diagnostic d’hypertension artérielle pulmonaire, la radiographie thoracique est pathologique chez:]]></statement>
+                                    
+                                    <answer><![CDATA[65 % des patients]]></answer>
+                                    <answer><![CDATA[80 % des patients]]></answer>
+                                    <answer><![CDATA[90 % des patients]]></answer>
+                                    
+                                    <correctanswer><![CDATA[90 % des patients]]></correctanswer>
+                                    
+                                    <explanation><![CDATA[Le degré d’hypertension pulmonaire n’est pas corrélé à l’étendue des anomalies radiographiques.]]></explanation>
+                                    
+                                    <reference><![CDATA[5) Galiè N et al. Guidelines for the diagnosis and treatment of pulmonary hypertension: The Task Force for the Diagnosis and Treatment of Pulmonary Hypertension of the European Society of Cardiology (ESC) and the European Respiratory Society (ERS), endorsed by the International Society of Heart and Lung Transplantation (ISHLT).
+Eur Heart J 2009;30:2493-537.]]></reference>
+                                    
+                                    
+                                </question>
+                                
+                                <question>
+                                    
+                                    <statement><![CDATA[Quel est l'examen qui permet de confirmer le diagnostic d'hypertension artérielle pulmonaire?]]></statement>
+                                    
+                                    <answer><![CDATA[Echocardiographie]]></answer>
+                                    <answer><![CDATA[Cathétérisme cardiaque droit]]></answer>
+                                    <answer><![CDATA[Radiographie du thorax]]></answer>
+                                    
+                                    <correctanswer><![CDATA[Cathétérisme cardiaque droit]]></correctanswer>
+                                    
+                                    <explanation><![CDATA[Le cathétérisme cardiaque droit est indiqué chez tous les patients ayant une hypertension artérielle pulmonaire pour confirmer le diagnostic, pour évaluer la sévérité et quand un traitement médicamenteux spécifique de l’hypertension artérielle pulmonaire est envisagé.]]></explanation>
+                                    
+                                    <reference><![CDATA[5) Galiè N et al. Guidelines for the diagnosis and treatment of pulmonary hypertension: The Task Force for the Diagnosis and Treatment of Pulmonary Hypertension of the European Society of Cardiology (ESC) and the European Respiratory Society (ERS), endorsed by the International Society of Heart and Lung Transplantation (ISHLT).
+Eur Heart J 2009;30:2493-537.]]></reference>
+                                    
+                                    
+                                </question>
+                                
+                                <question>
+                                    
+                                    <statement><![CDATA[La sévérité de la dyspnée est évaluée selon la classification fonctionnelle NYHA adaptée pour les patients atteints d’hypertension artérielle pulmonaire. Elle est constituée de:]]></statement>
+                                    
+                                    <answer><![CDATA[3 classes]]></answer>
+                                    <answer><![CDATA[4 classes]]></answer>
+                                    <answer><![CDATA[5 classes]]></answer>
+                                    
+                                    <correctanswer><![CDATA[4 classes]]></correctanswer>
+                                    
+                                    <explanation><![CDATA[4 classes (classe I à IV). La classification NYHA est un élément pronostique majeur, les patients en classe fonctionnelle III ou IV ayant une survie diminuée. L’évaluation de la dyspnée est complétée par un test de marche de six minutes, moyen simple et reproductible d’évaluer le handicap fonctionnel.]]></explanation>
+                                    
+                                    <reference><![CDATA[5) Galiè N et al. Guidelines for the diagnosis and treatment of pulmonary hypertension: The Task Force for the Diagnosis and Treatment of Pulmonary Hypertension of the European Society of Cardiology (ESC) and the European Respiratory Society (ERS), endorsed by the International Society of Heart and Lung Transplantation (ISHLT).
+Eur Heart J 2009;30:2493-537.]]></reference>
+                                    
+                                    
+                                </question>
+                                
+                                <question>
+                                    
+                                    <statement><![CDATA[Une hypertension pulmonaire chez des patients ayant une malformation cardiaque congénitale augmente le risque de mortalité (toutes causes confondues) versus ceux n’ayant pas d’hypertension pulmonaire de:]]></statement>
+                                    
+                                    <answer><![CDATA[0,5 fois]]></answer>
+                                    <answer><![CDATA[2 fois]]></answer>
+                                    <answer><![CDATA[3 fois]]></answer>
+                                    
+                                    <correctanswer><![CDATA[2 fois]]></correctanswer>
+                                    
+                                    <explanation><![CDATA[2 fois (HR: 2,69; IC 95%: 2,41 à 2,99.; p < 0,001). De manière comparable, le risque de morbidité (notamment d’insuffisance cardiaque et d’arythmie) est augmenté chez  les patients atteints de cardiopathie congénitale (HR: 3,01; IC 95%: 2,80 à 3,22; p < 0,001).]]></explanation>
+                                        
+                                        <reference><![CDATA[11) Lowe BS et al. Diagnosis of pulmonary hypertension in the congenital heart disease adult population Impact on outcomes. 
+J Am Coll Cardiol 2011;58:538-46]]></reference>
+                                        
+                                        
+                                        
+                                    </question>
+                                        
+                                        <question>
+                                            
+                                            <statement><![CDATA[La fermeture chirurgicale d’un shunt gauche-droite ne prévient pas toujours l’apparition d’une hypertension artérielle pulmonaire.]]></statement>
+                                            
+                                            <answer><![CDATA[Vrai]]></answer>
+                                            <answer><![CDATA[Faux]]></answer>
+                                            
+                                            
+                                            <correctanswer><![CDATA[Vrai]]></correctanswer>
+                                            
+                                            <explanation><![CDATA[La classification clinique des hypertensions artérielles pulmonaires associées à un shunt gauche-droite comprend la catégorie " hypertension artérielle pulmonaire après correction chirurgicale cardiaque ". Dans ce cas, la cardiopathie congénitale a été corrigée mais l'hypertension artérielle pulmonaire: 
+- est encore présente immédiatement après la chirurgie
+- ou réapparaît plusieurs mois ou années après la chirurgie malgré l'absence de lésions résiduelles.]]></explanation>
+                                            
+                                            <reference><![CDATA[5) Galiè N et al. Guidelines for the diagnosis and treatment of pulmonary hypertension: The Task Force for the Diagnosis and Treatment of Pulmonary Hypertension of the European Society of Cardiology (ESC) and the European Respiratory Society (ERS), endorsed by the International Society of Heart and Lung Transplantation (ISHLT).
+Eur Heart J 2009;30:2493-537.]]></reference>
+                                            
+                                            
+                                        </question>
+                                        
+                                        <question>
+                                            
+                                            <statement><![CDATA[Le syndrome d'Eisenmenger représente la forme la plus sévère d'hypertension artérielle pulmonaire liée à une malformation cardiaque congénitale:]]></statement>
+                                            
+                                            <answer><![CDATA[Vrai]]></answer>
+                                            <answer><![CDATA[Faux]]></answer>
+                                            
+                                            
+                                            <correctanswer><![CDATA[Vrai]]></correctanswer>
+                                            
+                                            <explanation><![CDATA[Ces lésions anatomiques les plus fréquentes en cas de syndrome d'Eisenmenger sont: communication interventriculaire, communication interauriculaire, canal atrioventriculaire, canal artériel persistant.]]></explanation>
+                                            
+                                            <reference><![CDATA[12) Beghetti M, Galié N. Eisenmenger syndrome. A clinical perspective in a new therapeutic area of pulmonary arterial hypertension. 
+J Am Coll Cardiol 2009;53:733-40.]]></reference>
+                                            
+                                            
+                                        </question>
+                                        
+                                        <question>
+                                            
+                                            <statement><![CDATA[La première description clinique du syndrome d’Eisenmenger par Victor Eisenmenger date de:]]></statement>
+                                            
+                                            <answer><![CDATA[1897]]></answer>
+                                            <answer><![CDATA[1902]]></answer>
+                                            <answer><![CDATA[1933]]></answer>
+                                            
+                                            
+                                            <correctanswer><![CDATA[1897]]></correctanswer>
+                                            
+                                            <explanation><![CDATA[En 1897, Victor Eisenmenger rapporta le cas d’un homme de 32 ans présentant une cyanose et une dyspnée depuis son enfance.  Ce patient avait eu une vie active jusqu’à 3 ans  avant son décès, avant que la dyspnée ne s’aggrave et qu'apparaisse une insuffisance cardiaque droite. Il succomba soudainement après une hémoptysie massive. L’autopsie réalisée révéla  la présence d’une communication interventriculaire et une hypertrophie ventriculaire droite.]]></explanation>
+                                            
+                                            <reference><![CDATA[13) Kaemmerer H et al. The adult patient with Eisenmenger syndrome: a medical update after Dana Point part I: epidemiology, clinical aspects and diagnostic options.  
+Curr Cardiol Rev 2010;6:343-55.]]></reference>
+                                            
+                                            
+                                        </question>
+                                        
+                                        <question>
+                                            
+                                            <statement><![CDATA[Le syndrome d’Eisenmenger présente des co-morbidités spécifiques: cyanose, troubles de la coagulation, atteintes pluriviscérales.]]></statement>
+                                            
+                                            <answer><![CDATA[Vrai]]></answer>
+                                            <answer><![CDATA[Faux]]></answer>
+                                            
+                                            
+                                            
+                                            <correctanswer><![CDATA[Vrai]]></correctanswer>
+                                            
+                                            <explanation><![CDATA[Les patients adultes atteints du syndrome d'Eisenmenger nécessitent une prise en charge complexe et multidisciplinaire.]]></explanation>
+                                            
+                                            <reference><![CDATA[13) Kaemmerer H et al. The adult patient with Eisenmenger syndrome: a medical update after Dana Point part I: epidemiology, clinical aspects and diagnostic options.
+Curr Cardiol Rev 2010;6:343-55.]]></reference>
+                                            
+                                            
+                                            
+                                        </question>
+                                        
+                                        <question>
+                                            
+                                            <statement><![CDATA[Le risque de développer un syndrome d’Eisenmenger pour les patients présentant une communication inter-auriculaire large (> 2 cm) non opérée est de:]]></statement>
+                                            
+                                            <answer><![CDATA[2 %]]></answer>
+                                            <answer><![CDATA[10 %]]></answer>
+                                            <answer><![CDATA[20 %]]></answer>
+                                            
+                                            
+                                            
+                                            <correctanswer><![CDATA[10 %]]></correctanswer>
+                                            
+                                            <explanation></explanation>
+                                            
+                                            <reference>	<![CDATA[5) Galiè N et al. Guidelines for the diagnosis and treatment of pulmonary hypertension: The Task Force for the Diagnosis and Treatment of Pulmonary Hypertension of the European Society of Cardiology (ESC) and the European Respiratory Society (ERS), endorsed by the International Society of Heart and Lung Transplantation (ISHLT).
+Eur Heart J 2009;30:2493-537.
+12) Beghetti M, Galié N. Eisenmenger syndrome. A clinical perspective in a new therapeutic area of pulmonary arterial hypertension. 
+J Am Coll Cardiol 2009;53:733-40.]]></reference>
+                                            
+                                            
+                                        </question>
+                                        
+                                        <question>
+                                            
+                                            <statement><![CDATA[Le risque de développer un syndrome d’Eisenmenger pour les patients présentant une communication interventriculaire large
+(> 1 cm) non opérée est de:]]></statement>
+                                            
+                                            <answer><![CDATA[10 %]]></answer>
+                                            <answer><![CDATA[50 %]]></answer>
+                                            <answer><![CDATA[80 %]]></answer>
+                                            
+                                            
+                                            
+                                            <correctanswer><![CDATA[50 %]]></correctanswer>
+                                            
+                                            <explanation></explanation>
+                                            
+                                            <reference><![CDATA[5) Galiè N et al. Guidelines for the diagnosis and treatment of pulmonary hypertension: The Task Force for the Diagnosis and Treatment of Pulmonary Hypertension of the European Society of Cardiology (ESC) and the European Respiratory Society (ERS), endorsed by the International Society of Heart and Lung Transplantation (ISHLT).
+Eur Heart J 2009;30:2493-537.
+12) Beghetti M, Galié N. Eisenmenger syndrome. A clinical perspective in a new therapeutic area of pulmonary arterial hypertension. 
+J Am Coll Cardiol 2009;53:733-40.]]></reference>
+                                            
+                                            
+                                        </question>
+                                        
+                                        <question>
+                                            
+                                            <statement><![CDATA[La chirurgie pour réparer les lésions anatomiques causales du syndrome d'Eisenmenger est contre-indiquée:]]></statement>
+                                            
+                                            <answer><![CDATA[Vrai]]></answer>
+                                            <answer><![CDATA[Faux]]></answer>
+                                            
+                                            
+                                            
+                                            
+                                            <correctanswer><![CDATA[Vrai]]></correctanswer>
+                                            
+                                            <explanation><![CDATA[La chirurgie pour réparer les lésions anatomiques causales du syndrome d'Eisenmenger est contre-indiquée du fait du risque de mortalité élevé et du mauvais pronostique.]]></explanation>
+                                            
+                                            <reference><![CDATA[15) Galiè N et al. Management of pulmonary arterial hypertension associated with congenital systemic-to-pulmonary shunts and Eisenmenger's syndrome.
+Drugs 2008;68:1049-66.]]></reference>
+                                            
+                                            
+                                            
+                                        </question>
+                                        
+                                        <question>
+                                            
+                                            <statement><![CDATA[En l’absence de traitement spécifique de l'hypertension artérielle pulmonaire, la survie des patients avec un syndrome d’Eisenmenger est meilleure que celle des patients ayant une hypertension artérielle pulmonaire idiopathique.]]></statement>
+                                            
+                                            
+                                            <answer>Vrai</answer>
+                                            <answer>Faux</answer>
+                                            
+                                            <correctanswer><![CDATA[Vrai]]></correctanswer>
+                                            
+                                            <explanation><![CDATA[Vrai (77 % vs 35 % à 3 ans). Cependant, la survie des patients avec syndrome d'Eisenmenger est réduite par rapport à la population générale d'environ 20 ans en cas de cardiopathie congénitale simple, et d'environ 40 ans en cas de cardiopathie congénitale complexe.]]></explanation>
+                                            
+                                            <reference><![CDATA[15) Hopkins WE et al. Comparison of the hemodynamics and survival of adults with severe primary pulmonary hypertension or Eisenmenger syndrome.
+J Heart Lung Transplant 1996;15:100-5.
+16) Diller GP et al. Presentation, survival prospects, and predictors of death in Eisenmenger syndrome: a combined retrospective and case-control study. 
+Eur Heart J 2006;27:1737-42.]]></reference>
+                                            
+                                            
+                                        </question>
+                                        
+                                        <question>
+                                            
+                                            <statement><![CDATA[Les patients avec un syndrome d’Eisenmenger ont une espérance de vie réduite, la médiane de survie chez les patients sans traitement spécifique est d’environ:]]></statement>
+                                            
+                                            <answer><![CDATA[38 ans]]></answer>
+                                            <answer><![CDATA[53 ans]]></answer>
+                                            <answer><![CDATA[58 ans]]></answer>
+                                            
+                                            
+                                            <correctanswer><![CDATA[58 ans]]></correctanswer>
+                                            
+                                            <explanation><![CDATA[La cause de décès rapportée dans cette cohorte historique est la mort subite dans 21 % des cas et l'insuffisance cardiaque pour 42 % des patients.]]></explanation>
+                                            
+                                            <reference><![CDATA[17) Cantor WJ et al. Determinants of survival and length of survival in adults with Eisenmenger syndrome. 
+Am J Cardiol 1999;84:677-81.]]></reference>
+                                            
+                                            
+                                            
+                                        </question>
+                                        
+                                        <question>
+                                            
+                                            <statement><![CDATA[La grossesse est contre-indiquée chez les patientes ayant une hypertension artérielle pulmonaire sévère ou un syndrome d’Eisenmenger.]]></statement>
+                                            
+                                            <answer><![CDATA[Vrai]]></answer>
+                                            <answer><![CDATA[Faux]]></answer>
+                                            
+                                            
+                                            
+                                            <correctanswer><![CDATA[Vrai]]></correctanswer>
+                                            
+                                            <explanation><![CDATA[La mortalité maternelle peut atteindre 30 à 50 %. 
+Une méthode de contraception fiable est indispensable.]]></explanation>
+                                            
+                                            <reference><![CDATA[7) Baumgartner H et al. ESC Guidelines for the management of grown-up congenital heart disease (new version 2010): The Task Force on the Management of Grown-up Congenital Heart Disease of the European Society of Cardiology (ESC).
+Eur Heart J 2010;31:2915-57.]]></reference>
+                                            
+                                            
+                                            
+                                        </question>
+                                        
+                                        <question>
+                                            
+                                            <statement><![CDATA[Chez les patientes ayant une hypertension artérielle pulmonaire sévère ou un syndrome d’Eisenmenger, la mortalité maternelle en cas de grossesse est très élevée. Elle est de l’ordre de:]]></statement>
+                                            
+                                            <answer><![CDATA[10-15 %]]></answer>
+                                            <answer><![CDATA[20-30 %]]></answer>
+                                            <answer><![CDATA[30-50 %]]></answer>
+                                            
+                                            
+                                            <correctanswer><![CDATA[30-50 %]]></correctanswer>
+                                            
+                                            <explanation><![CDATA[Une méthode de contraception fiable est indispensable.]]></explanation>
+                                            
+                                            <reference><![CDATA[7) Baumgartner H et al. ESC Guidelines for the management of grown-up congenital heart disease (new version 2010): The Task Force on the Management of Grown-up Congenital Heart Disease of the European Society of Cardiology (ESC).
+Eur Heart J 2010;31:2915-57.]]></reference>
+                                            
+                                            
+                                            
+                                        </question>
+                                        
+                                        <question>
+                                            
+                                            <statement><![CDATA[La physiopathologie du syndrome d’Eisenmenger (remodelage vasculaire pulmonaire) implique l’endothéline-1:]]></statement>
+                                            
+                                            <answer><![CDATA[Vrai]]></answer>
+                                            <answer><![CDATA[Faux]]></answer>
+                                            
+                                            
+                                            
+                                            <correctanswer><![CDATA[Vrai]]></correctanswer>
+                                            
+                                            <explanation><![CDATA[L’endothéline-1, le thromboxane, la prostacycline et l’oxyde nitrique sont impliqués comme dans l’hypertension artérielle pulmonaire idiopathique ou héritable.]]></explanation>
+                                            
+                                            <reference><![CDATA[12) Beghetti M, Galié N. Eisenmenger syndrome. A clinical perspective in a new therapeutic area of pulmonary arterial hypertension. 
+J Am Coll Cardiol 2009;53:733-40.]]></reference>
+                                            
+                                            
+                                        </question>
+                                        
+                                        <question>
+                                            
+                                            <statement><![CDATA[Il est recommandé que tout patient adulte ayant une malformation cardiaque congénitale soit vu au moins une fois en centre spécialisé. En France, le réseau des Malformations Cardiaques Congénitales Complexes (M3C) a été créé en:]]></statement>
+                                            
+                                            <answer><![CDATA[1998]]></answer>
+                                            <answer><![CDATA[2006]]></answer>
+                                            <answer><![CDATA[2009]]></answer>
+                                            
+                                            
+                                            <correctanswer><![CDATA[2006]]></correctanswer>
+                                            
+                                            <explanation></explanation>
+                                            
+                                            <reference><![CDATA[7) Baumgartner H et al. ESC Guidelines for the management of grown-up congenital heart disease (new version 2010): The Task Force on the Management of Grown-up Congenital Heart Disease of the European Society of Cardiology (ESC).
+Eur Heart J 2010;31:2915-57.]]></reference>
+                                            
+                                            
+                                            
+                                        </question>
+                                        <question>
+                                            
+                                            <statement><![CDATA[Le réseau des Malformations Cardiaques Congénitales Complexes (M3C) s’appuie sur un Centre de Référence National (AP-HP Hôpital Necker - Enfants Malades, Paris) et un réseau nommé de centres de compétences répartis dans toute la France. On dénombre à ce jour:]]></statement>
+                                            
+                                            <answer><![CDATA[12 centres]]></answer>
+                                            <answer><![CDATA[18 centres]]></answer>
+                                            <answer><![CDATA[20 centres]]></answer>
+                                            
+                                            
+                                            <correctanswer><![CDATA[20 centres]]></correctanswer>
+                                            
+                                            <explanation></explanation>
+                                            
+                                            <reference></reference>
+                                            
+                                            
+                                            
+                                        </question>
+                                        
+                                        
+                                        
+                                    </questions>
+                                    
